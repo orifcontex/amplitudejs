@@ -36,7 +36,7 @@ AmplitudeJS is a lightweight JavaScript library that allows you to control the d
 	Click the image above to go to the demo site or <a href="https://521dimensions.com/open-source/amplitudejs" target="_blank">click here</a>.
 </p>
 
-## This Software is Community-run
+## This Software is Community-run!
 
 Open-source software is not sustainable without proper financial support. Maintaining an open source project takes a lot of effort and resources. If you are very thankful for what you can do with AmplitudeJS or if you are using AmplitudeJS to make any sort of revenue, we kindly ask that you contribute any resources available to keep the community growing.
 
